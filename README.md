@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dhollowa
+- 👀 I’m interested in compilers, web assembly, ui frameworks, computer graphics, and making code run fast
+- 🌱 I’m currently learning how to build fast interpreters
